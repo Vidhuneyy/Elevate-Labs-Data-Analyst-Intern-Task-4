@@ -42,18 +42,17 @@ This dashboard is created using **Power BI Desktop** and visualizes Amazon’s t
 
 ## 📸 Dashboard Preview
 
-![Amazon Sales Report Dashboard](Screenshot%202025-04-25%20122724.png)
+![Screenshot 2025-04-25 122724](https://github.com/user-attachments/assets/a2e92aa2-945b-4452-a848-67595debbd36)
+
 
 ---
 
 ## 📂 Files Included
 
 | File | Description |
-|------|-------------|
 | `[amazon_sales_data 2025.csv](https://github.com/user-attachments/files/19904159/amazon_sales_data.2025.csv)
 ` | Source dataset  |
 | `` | Power BI report file |
-| `Screenshot 2025-04-25.png` | Dashboard screenshot |
 
 ---
 
